@@ -23,7 +23,7 @@
     <published>2023-03-27T13:46:14.337Z</published>
     <updated>2023-03-27T13:46:14.337Z</updated>
     
-    <content type="html"><![CDATA[<p>// WIP</p><ul><li><a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a></li><li><a target="_blank" rel="noopener" href="https://obsidian.md/">Obsidian</a></li></ul><h2 id="How-to"><a href="#How-to" class="headerlink" title="How to"></a>How to</h2><ol><li>Init Hexo Project</li><li>Open Hexo Source folder in Obsidian</li></ol><p>Obisidian&gt;File&gt;Open Vault…</p><p><img src="../assets/attach/obsidian-open-vault.png"></p><br>Open folder as vault &gt; Open Select `source` folder in the Hexo project<br><p><img src="../assets/attach/hexo-source-folder-in-obsidian.png"></p>]]></content>
+    <content type="html"><![CDATA[<p>// WIP</p><ul><li><a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a></li><li><a target="_blank" rel="noopener" href="https://obsidian.md/">Obsidian</a></li></ul><h2 id="How-to"><a href="#How-to" class="headerlink" title="How to"></a>How to</h2><ol><li>Init Hexo Project</li><li>Open Hexo Source folder in Obsidian</li></ol><p>Obisidian&gt;File&gt;Open Vault…</p><p><img src="/assets/attach/obsidian-open-vault.png"></p><br>Open folder as vault &gt; Open Select `source` folder in the Hexo project<br><p><img src="/assets/attach/hexo-source-folder-in-obsidian.png"></p><p>Obisidian&gt;Settings&gt;Files &amp; Links</p><p>Disable <code>Use [[Wikilinks]]</code><img src="/assets/attach/obsidian-settings-file-links-use-wikilinks.png"></p>]]></content>
     
     
       
