@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/uncategorized/hello-world/"/>
-    <id>http://example.com/uncategorized/hello-world/</id>
+    <link href="http://example.com/hexo/hello-world/"/>
+    <id>http://example.com/hexo/hello-world/</id>
     <published>2023-02-25T09:44:37.050Z</published>
     <updated>2023-02-25T09:44:37.050Z</updated>
     
@@ -32,6 +32,8 @@
       
     
     
+    
+    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
     
     
   </entry>
