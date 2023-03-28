@@ -3,11 +3,11 @@
   <title>Caltara&#39;s Corner</title>
   
   <subtitle>Melody of 0 &amp; 1</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://www.caltara.online/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://www.caltara.online/"/>
   <updated>2023-03-27T13:46:14.337Z</updated>
-  <id>http://example.com/</id>
+  <id>https://www.caltara.online/</id>
   
   <author>
     <name>Caltara</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>How to Write a Hexo Post in Obsidian</title>
-    <link href="http://example.com/2023/03/27/how-to-write-a-hexo-post-in-obsidian/"/>
-    <id>http://example.com/2023/03/27/how-to-write-a-hexo-post-in-obsidian/</id>
+    <link href="https://www.caltara.online/2023/03/27/how-to-write-a-hexo-post-in-obsidian/"/>
+    <id>https://www.caltara.online/2023/03/27/how-to-write-a-hexo-post-in-obsidian/</id>
     <published>2023-03-27T13:46:14.337Z</published>
     <updated>2023-03-27T13:46:14.337Z</updated>
     
@@ -34,16 +34,16 @@
     
     
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://www.caltara.online/tags/hexo/"/>
     
-    <category term="obsidian" scheme="http://example.com/tags/obsidian/"/>
+    <category term="obsidian" scheme="https://www.caltara.online/tags/obsidian/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/02/25/hello-world/"/>
-    <id>http://example.com/2023/02/25/hello-world/</id>
+    <link href="https://www.caltara.online/2023/02/25/hello-world/"/>
+    <id>https://www.caltara.online/2023/02/25/hello-world/</id>
     <published>2023-02-25T09:44:37.050Z</published>
     <updated>2023-02-25T09:44:37.050Z</updated>
     
@@ -58,7 +58,7 @@
     
     
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://www.caltara.online/tags/hexo/"/>
     
   </entry>
   
