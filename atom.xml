@@ -6,7 +6,7 @@
   <link href="https://www.caltara.online/atom.xml" rel="self"/>
   
   <link href="https://www.caltara.online/"/>
-  <updated>2023-03-27T13:46:14.337Z</updated>
+  <updated>2023-12-18T16:00:00.000Z</updated>
   <id>https://www.caltara.online/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Enhancing Developer Search Experience with Raycast&#39;s Create Quicklink and Devv.AI</title>
+    <link href="https://www.caltara.online/2023/12/19/enhancing-developer-search-experience-with-raycast-s-create-quicklink-and-devv-ai/"/>
+    <id>https://www.caltara.online/2023/12/19/enhancing-developer-search-experience-with-raycast-s-create-quicklink-and-devv-ai/</id>
+    <published>2023-12-18T16:00:00.000Z</published>
+    <updated>2023-12-18T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p><a target="_blank" rel="noopener" href="https://hackmd.io/c-XFsHJqT4SJqeGiochUjw"><img src="https://hackmd.io/c-XFsHJqT4SJqeGiochUjw/badge" alt="hackmd-github-sync-badge"></a></p><p>Hello, fellow developers! In this post, I’ll share how combining Raycast’s Create Quicklink feature with Devv.AI has greatly improved my daily search experience. If you haven’t tried them yet, you’re in for a real efficiency boost!</p><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><h3 id="Raycast"><a href="#Raycast" class="headerlink" title="Raycast"></a>Raycast</h3><p><a target="_blank" rel="noopener" href="https://www.raycast.com/">Raycast</a> is a potent productivity tool for developers and power users on macOS. It’s akin to Spotlight for your terminal, offering capabilities to find files, open applications, search the web, and execute custom commands swiftly.</p><h3 id="Devv-AI"><a href="#Devv-AI" class="headerlink" title="Devv.AI"></a>Devv.AI</h3><p><a target="_blank" rel="noopener" href="https://devv.ai/">Devv.AI</a> is an AI-driven search engine tailored for developers. It delivers precise search results from sources like Stack Overflow, GitHub, and various documentation websites, streamlining your coding research.</p><h2 id="Setting-Up-Raycast-with-Devv-AI"><a href="#Setting-Up-Raycast-with-Devv-AI" class="headerlink" title="Setting Up Raycast with Devv.AI"></a>Setting Up Raycast with Devv.AI</h2><h3 id="Creating-a-Quicklink-in-Raycast"><a href="#Creating-a-Quicklink-in-Raycast" class="headerlink" title="Creating a Quicklink in Raycast"></a>Creating a Quicklink in Raycast</h3><ol><li><p>Open Raycast (hotkey: <code>Option</code>+<code>Shift</code>+<code>Space</code>).</p></li><li><p>Navigate to “Create Quicklinks”,press <code>Enter</code> to open the form.<img src="https://hackmd.io/_uploads/Bkn_jRC8T.png" alt="image"></p></li><li><p>Assign a name like “devv” for easy access.</p></li><li><p>In the “Link” field, enter <code>https://devv.ai/en/search/{Query}</code>. This setup ensures queries in Raycast are directed to Devv.AI.</p></li></ol><p><img src="https://hackmd.io/_uploads/HJlIpo0R8a.png" alt="image"></p><ol start="8"><li>Press <code>Cmd</code>+<code>Enter</code> to create the quicklink.</li></ol><h3 id="Using-the-Quicklink"><a href="#Using-the-Quicklink" class="headerlink" title="Using the Quicklink"></a>Using the Quicklink</h3><ol><li>Encounter a coding question.</li><li>Activate Raycast (<code>Option</code>+<code>Shift</code>+<code>Space</code>).</li><li>Type “d” and hit Enter/Tab to locate Devv.AI quickly.</li><li>Input your query, like “how to use async/await in JavaScript”.</li><li>Raycast opens the search in your browser, directly on the Devv.AI results page. The multi-round query feature on Devv.AI enhances the search experience significantly.</li></ol><p>This integration boosts search efficiency, eliminating the need to juggle multiple tabs or search engines.</p><h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Raycast’s Create Quicklink and Devv.AI are a powerful combo for developers seeking to optimize their search experience. They’re free, with no login required, offering an anonymous experience akin to the cleanest search engines.</p><p><strong>Raycast + Devv.AI Rocks!</strong></p><p><em>Note</em>: Visit the Raycast <a target="_blank" rel="noopener" href="https://www.raycast.com/">official website</a> for downloads and installation guides.</p><hr><p>This revised version adheres to your specifications, including the correct URL, Raycast hotkey, and an emphasis on the ease and benefits of using these tools together.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href</summary>
+      
+    
+    
+    
+    
+    <category term="raycast" scheme="https://www.caltara.online/tags/raycast/"/>
+    
+    <category term="devvai" scheme="https://www.caltara.online/tags/devvai/"/>
+    
+  </entry>
   
   <entry>
     <title>How to Write a Hexo Post in Obsidian</title>
